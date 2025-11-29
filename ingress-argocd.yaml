@@ -12,7 +12,7 @@ spec:
   tls:
   - hosts:
     - argocd.maryannsluxe.online
-    secretName: argocd-cloudwitches-online
+    secretName: argocd-maryannsluxe-online
   rules:
   - host: argocd.maryannsluxe.online
     http:
